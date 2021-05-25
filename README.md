@@ -1,5 +1,6 @@
 ## Olá! Eu sou a Lívia  
-Uma mulher multifacetada, dedicada a tudo o que faz, uma funcionária pontual, dinâmica, e que se adequa as mais diversas situações e problemas. Sempre fui muito curiosa, dedicada aos estudos e responsável. Aprendi que as tecnologia se inova a cada dia, temos que nos adaptar e nos reinventar e para isso usamos nossa criatividade.
+Uma mulher multifacetada, dedicada a tudo o que faz,  ainda tenho muito o que aprender mas o pouco que sei deposito aqui.  Aprendi que as tecnologia se inova a cada dia, temos que nos adaptar e nos reinventar e para isso usamos nossa criatividade.
+
  <div>
   <a href="https://github.com/livbrandao">
 
