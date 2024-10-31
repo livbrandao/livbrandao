@@ -1,6 +1,12 @@
 ## Olá! Eu sou a Lívia  
 Uma mulher multifacetada, dedicada a tudo o que faz,  ainda tenho muito o que aprender mas o pouco que sei deposito aqui.  Aprendi que as tecnologia se inova a cada dia, temos que nos adaptar e nos reinventar e para isso usamos nossa criatividade.
 
+![Livia's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+![Livia's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
+
  <div>
   <a href="https://github.com/livbrandao">
 
