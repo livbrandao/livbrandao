@@ -11,7 +11,7 @@ Desenvolvedora front-end com experiência em Angular e React. Estou sempre em bu
 
 ## ⚙️ GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livbrandao&layout=compact&theme=radical) ![Livia's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=livbrandao&theme=radical)
+![Livia's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=livbrandao&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livbrandao&layout=compact&theme=radical)
 
 ---
 
